@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@rails/activestorage": "^7.0.4",
-    "@uppy/core": "^3.0.4"
+    "@uppy/core": "^3.0.6"
   },
   "peerDependencies": {
     "@rails/activestorage": "*",
@@ -40,7 +40,7 @@
     "@excid3:registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
-    "@paralleldrive/cuid2": "^2.0.1",
+    "@paralleldrive/cuid2": "^2.2.0",
     "np": "^7.6.3"
   }
 }
